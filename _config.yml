@@ -24,8 +24,8 @@ navigation:                  # (optional) site navigation in the header
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:ha-woona@kaist.ac.kr"
-  github: "https://github.com"
-  rss: "/feed.xml"
+  github: "https://github.com/hawoonan"
+  #rss: "/feed.xml"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
